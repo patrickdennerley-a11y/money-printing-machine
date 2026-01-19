@@ -1,0 +1,16 @@
+# Math Lead Sniper - Python Dependencies
+
+# Reddit API client
+praw>=7.7.1
+
+# RSS feed parser
+feedparser>=6.0.10
+
+# Google Gemini AI
+google-generativeai>=0.3.0
+
+# HTTP requests for Discord webhooks
+requests>=2.31.0
+
+# Environment variable management
+python-dotenv>=1.0.0
